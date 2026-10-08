@@ -24,5 +24,7 @@
 ### 📬 Find Me on GitHub
 
 🐙 **GitHub:** [@Sleepycatdev190](https://github.com/Sleepycatdev190)
-🐈Website: https://sleepycatdev190.netlify.app/
+
+🌐 **Website:** [sleepycatdev190.netlify.app](https://sleepycatdev190.netlify.app/)
+
 ---
