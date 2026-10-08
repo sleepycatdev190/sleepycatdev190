@@ -19,8 +19,6 @@
 ### 🐾 Beyond the Code
 
 * 🐈 Cats are my spirit animal.
-* 🌱 Always learning, always improving.
-* 🛠️ Debugging is just detective work with extra steps.
 * 💤 Sometimes the best solution is a little sleep.
 
 ### 📬 Find Me on GitHub
