@@ -32,11 +32,3 @@
 🐙 **GitHub:** [@Sleepycatdev190](https://github.com/Sleepycatdev190)
 
 ---
-
-<p align="center">
-  <i>"Stay curious. Keep creating. Always land on your feet."</i> 🐾
-</p>
-
-<p align="center">
-  <sub>Built with curiosity, caffeine, and cat energy. 🖤</sub>
-</p>
