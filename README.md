@@ -6,11 +6,7 @@
 
 ### 🌌 A Little About Me
 
-🐾 I'm a developer in progress, always curious about technology and new ideas.
-
 💻 I enjoy exploring web development, mobile applications, and creative projects.
-
-🎨 I like turning simple ideas into something useful and meaningful.
 
 🐈‍⬛ Dark mode, late-night coding, and cats — my kind of vibe.
 
