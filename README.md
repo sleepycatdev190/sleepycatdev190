@@ -13,8 +13,6 @@
 
 💻 I enjoy exploring web development, mobile applications, and creative projects.
 
-🐈 Dark mode, late-night coding, and cats — my kind of vibe.
-
 ### ⚡ My Tech Stack
 
 <p align="left">
