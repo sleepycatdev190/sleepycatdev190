@@ -1,14 +1,19 @@
-# 🐈‍⬛ Hi, I'm SleepyCatDev190
 
-💻 **Aspiring Developer** · 📱 **Mobile App Enthusiast** · 🌙 **Cat Person**
+# 🐈 Hi, I'm SleepyCatDev190 🐾
 
-> *A sleepy cat with big ideas and a keyboard.*
+>📱 Mobile App Enthusiast · 🌙 Cat Person
 
-### 🌌 A Little About Me
+> 💤 *A sleepy cat with big ideas and a keyboard.*
+
+---
+
+### ✨ A Little About Me
+
+🧩 I love Solve coding challenges
 
 💻 I enjoy exploring web development, mobile applications, and creative projects.
 
-🐈‍⬛ Dark mode, late-night coding, and cats — my kind of vibe.
+🐈 Dark mode, late-night coding, and cats — my kind of vibe.
 
 ### ⚡ My Tech Stack
 
@@ -16,15 +21,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,git,github,vscode,figma&theme=dark" alt="My Tech Stack" />
 </p>
 
-### 🐾 Beyond the Code
+### 🌐 Find Me on Website
 
-* 🐈 Cats are my spirit animal.
-* 💤 Sometimes the best solution is a little sleep.
-
-### 📬 Find Me on GitHub
-
-🐙 **GitHub:** [@Sleepycatdev190](https://github.com/Sleepycatdev190)
-
-🌐 **Website:** [sleepycatdev190.netlify.app](https://sleepycatdev190.netlify.app/)
+<p align="left">
+  <a href="https://sleepycatdev190.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-Visit_My_Site-FF9F43?style=for-the-badge&logo=netlify&logoColor=white" alt="My Website" />
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  🧡 <i>Keep coding, keep dreaming, and take a cat nap when needed.</i> 💤
+</p>
