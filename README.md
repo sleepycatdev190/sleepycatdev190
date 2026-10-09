@@ -29,6 +29,3 @@
 
 ---
 
-<p align="center">
-  🧡 <i>Keep coding, keep dreaming, and take a cat nap when needed.</i> 💤
-</p>
