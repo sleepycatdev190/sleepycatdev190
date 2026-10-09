@@ -1,7 +1,7 @@
 
 # 🐈 Hi, I'm SleepyCatDev190 🐾
 
->📱 Mobile App Enthusiast · 🌙 Cat Person
+>📱 Mobile App Enthusiast 🌐 Website Developer
 
 > 💤 *A sleepy cat with big ideas and a keyboard.*
 
