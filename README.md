@@ -1,7 +1,7 @@
 
 # 🐈 Hi, I'm SleepyCatDev190 🐾
 
->📱 Mobile App Developer 🌐 Website Developer
+📱 Mobile App Developer 🌐 Website Developer
 
 ---
 
