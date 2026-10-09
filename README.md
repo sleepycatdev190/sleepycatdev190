@@ -3,7 +3,6 @@
 
 > 📱 Mobile App Developer 🌐 Website Developer
 > 💤 *A sleepy cat with big ideas and a keyboard.*
----
 
 ### ✨ A Little About Me
 
